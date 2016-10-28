@@ -12,8 +12,10 @@ A simple web application which: -
 •   Google Map API
 •   Twit API
 •   Node.js 
---------------------------------------------------------------------
+
+
 **Link to final version** [http://tweetmapper.us-east-1.elasticbeanstalk.com/](http://tweetmapper.us-east-1.elasticbeanstalk.com/)
+--------------------------------------------------------------------
 
 **Application Screenshots**
 ![alt tag](https://github.com/addy1110/Tweet-Map/blob/master/screenshots/tweetmap_category.png)
